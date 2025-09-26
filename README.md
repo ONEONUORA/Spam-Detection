@@ -41,7 +41,7 @@ The system uses the dataset `Spam Email raw text for NLP.csv`, which contains:
   - `MESSAGE`: Email or text message content.
   - `FILE_NAME`: Metadata (not used in classification).
 - **Size**: The dataset size is checked dynamically (e.g., ~5,572 rows based on prior runs).
-- **Source**: User-provided dataset. Alternatively, you can use public datasets like:
+- **Source**: User-provided dataset from [kaggle](https://www.kaggle.com/datasets/chandramoulinaidu/spam-classification-for-basic-nlp?resource=download). Alternatively, you can use public datasets like:
   - [UCI SMS Spam Collection](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
   - [Enron-Spam Dataset](http://www.aueb.gr/users/ion/data/enron-spam/)
 

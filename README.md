@@ -9,7 +9,6 @@ This project implements a Natural Language Processing (NLP) system to classify e
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Project Structure](#project-structure)
 - [Known Issues](#known-issues)
 - [Future Improvements](#future-improvements)
 
